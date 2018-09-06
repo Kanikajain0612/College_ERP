@@ -1,0 +1,18 @@
+{"level":"debug","message":"[TOKEN AUTH] Redis connection for Session Management is successful","timestamp":"2018-09-03T20:24:01.212Z"}
+{"level":"debug","message":"[DATABASE] Database connection successful","timestamp":"2018-09-03T20:24:01.267Z"}
+{"level":"debug","message":"[TOKEN AUTH] Redis connection for Session Management is successful","timestamp":"2018-09-03T20:30:30.656Z"}
+{"level":"debug","message":"[DATABASE] Database connection successful","timestamp":"2018-09-03T20:30:30.707Z"}
+{"level":"debug","message":"[TOKEN AUTH] Redis connection for Session Management is successful","timestamp":"2018-09-03T20:32:29.960Z"}
+{"level":"debug","message":"[DATABASE] Database connection successful","timestamp":"2018-09-03T20:32:30.013Z"}
+{"level":"debug","message":"[TOKEN AUTH] Redis connection for Session Management is successful","timestamp":"2018-09-04T07:08:31.365Z"}
+{"level":"debug","message":"[DATABASE] Database connection successful","timestamp":"2018-09-04T07:08:31.481Z"}
+{"level":"debug","message":"[TOKEN AUTH] Redis connection for Session Management is successful","timestamp":"2018-09-05T12:12:25.694Z"}
+{"level":"debug","message":"[DATABASE] Database connection successful","timestamp":"2018-09-05T12:12:25.769Z"}
+{"level":"debug","message":"[TOKEN AUTH] Redis connection for Session Management is successful","timestamp":"2018-09-05T12:55:34.791Z"}
+{"level":"debug","message":"[DATABASE] Database connection successful","timestamp":"2018-09-05T12:55:34.848Z"}
+{"level":"debug","message":"[TOKEN AUTH] Redis connection for Session Management is successful","timestamp":"2018-09-05T19:47:25.481Z"}
+{"level":"debug","message":"[DATABASE] Database connection successful","timestamp":"2018-09-05T19:47:25.546Z"}
+{"level":"debug","message":"[TOKEN AUTH] Redis connection for Session Management is successful","timestamp":"2018-09-06T09:53:01.616Z"}
+{"level":"debug","message":"[DATABASE] Database connection successful","timestamp":"2018-09-06T09:53:01.635Z"}
+{"level":"debug","message":"[TOKEN AUTH] Redis connection for Session Management is successful","timestamp":"2018-09-06T10:06:22.403Z"}
+{"level":"debug","message":"[DATABASE] Database connection successful","timestamp":"2018-09-06T10:06:22.424Z"}
